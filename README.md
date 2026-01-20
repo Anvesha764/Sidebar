@@ -6,8 +6,7 @@ This project uses the **checkbox toggle technique** to open and close the sideba
 ---
 
 ## 🚀 Live Demo
-https://Anvesha764.github.io/sidebar-menu-css/
-
+https://anvesha764.github.io/Sidebar/
 ---
 
 ## ✨ Features
